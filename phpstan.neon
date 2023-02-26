@@ -1,0 +1,9 @@
+parameters:
+  level: 8
+  paths:
+    - src/
+  bootstrapFiles:
+    - phpstan-dba-bootstrap.php
+
+includes:
+  - ./vendor/staabm/phpstan-dba/config/dba.neon

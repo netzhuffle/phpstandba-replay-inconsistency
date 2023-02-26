@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php": "^8.1",
+        "ext-mysqli": "*",
+        "ext-pdo": "*"
+    },
+    "require-dev": {
+        "staabm/phpstan-dba": "^0.2.64"
+    }
+}
